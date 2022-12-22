@@ -595,15 +595,12 @@
     <div id="balloon-container">
         
     </div>
-    <div id="nhac">
-        <iframe
-  src="https://www.youtube.com/embed/psDseYqhYME"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
-    </div>
+    <audio class="song" controls loop style="display: none;">
+        <source src="https://tainhacmienphi.biz/get/song/api/4628"></source>
+	   Your browser isn't invited for super fun audio time.
+    </audio>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>
         var w = c.width = window.innerWidth,
             h = c.height = window.innerHeight,
@@ -1278,6 +1275,8 @@
             }
             function openBox() {
                 if (step === 1) {
+                    var audio = $('.song')[0];
+                    audio.play();
                     box.removeEventListener("click", openBox, false);
                 }
                 stepClass(step);
@@ -1313,7 +1312,7 @@
             //ifrm.style.width = `${w}px`;
             //ifrm.style.height = `${h}px`;
             ifrm.style.border = 'none';
-            document.querySelector('#video').appendChild(ifrm);
+            // document.querySelector('#video').appendChild(ifrm);
         }
     </script>
 
@@ -1349,12 +1348,12 @@ animation: float ${dur}s ease-in infinite
         }
     }
 
-    // function removeBalloons() {
-    //     balloonContainer.style.opacity = 0;
-    //     setTimeout(() => {
-    //         balloonContainer.remove()
-    //     }, 500)
-    // }
+    function removeBalloons() {
+        balloonContainer.style.opacity = 0;
+        setTimeout(() => {
+            balloonContainer.remove()
+        }, 500)
+    }
 
     window.addEventListener("load", () => {
         createBalloons(30)
