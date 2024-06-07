@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vinid-playground",
+  "private_key_id": "d4f9f8818ea26eb930686c85fd4a7cdedfd190b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB1aZL9Ez2aZKh\nJKtj0pXBRsDUKXvIUspSCBRdEKZmLXMjNL2B/Ju2tXANdBvb3hKbziZggLJKiR1Q\nqDfjOslzHFb8H4pXWtiO6SWiUa7Ik3YPS58KFePruO7MDqVEwh9qhCZx97WKLiOt\n+jBU4NHT0ONJSGHRp237lsOR/eh3oeJsqpTuWBB5M33Z7vYlgePUPLkwuXKGqFnI\nJWB5h2v06h9USoLU+yRxwc83KdzHrRNJZGCPftcSqoJlH8vLozduPPkuCUxmh2Ur\nyuO/1fEbRBLtWgD6k34bGRvosaY2U9dQ7H/3YylKJ8gr2LRVzJ8Cq3wxQKKaMwJx\nKwhLaYMrAgMBAAECggEAGaJCksrlHrVJgewSimoACgZsW+J8jzp7rSuKXeBk0SBz\nmJVR9o3MnfYSsoTHZmVQ+q/hnWOHsJm/ebo1YeSVXZbC3ibhqbnG5+dnZbb9sWLm\n+xDaIIBSmwri8bOCIby2YOTHHM1QgcymRUzP9Xmh5iw60qcy4IIO5nXCuVzl0GQq\nW54LzpZXPHeleGLh6XSgcu660BihQsibXltN3j8BJMDSAmRTiI2FysCEeUbtWaIP\nB/W+IIrIBs0Aa4A0tPO9/kDbaqGp2xQnjLBVvjCB6TexfId0tNM12RTCQCbihy25\n9GKgYHJdQh0nTk3IXX9dakNnbXvKrITXHcymWP88YQKBgQDiHs9HXzN6uEY7hCjn\nYMqS1z79dcVqLU8IlOzlKrvGAUdrglFNJ6EMhJVWwoiM1/FK51iAnZG8Ti/yES1X\nx+oN/jOLIGUo25y4/KxdrWDQbqDtRWjPn3uJ+7QQqNQU6D3FSfwAHxsmHaJywzqR\nue4eeVX8Vud7yu+kyYwHjSPdOwKBgQDbcq2B8I16K+KJ9kxxlx/DXqpyEcAYb0T9\nsvqu1YxtRtfgalEsjb7OOQQ0WTy4GRpuJVqW1OxZbbKAPqlmt9QhjSKxreiIa5PI\n5iLLO6eanNElPGYBhs+veCLt+woejPaypdVF4/TI8RRe2NtgNyejm7YnmUVi8D28\nJ8LMPH9S0QKBgQDMifYRp4oXjizplUiy05kqbs4p06h5vPZq2tvXCGrGV03VcBI+\n6oQBoMS9sEZ4sLUxfkdOQDodzdQM8YDEkK+lbLYPOYSICu+fXeBE9JpIsGmdd1Wx\nyZ+kVyywjScaqmGF3sC3E2wpdFEH4pVOUJOWuUcQdUP7dLyFoVKrWf6BFQKBgBso\nyz6MtgXLzqLCf92DFaRJYBD0D3E2vDQl5Y6j0Vho7yjQH7HC7T16owGTlcc3HCVL\nrDWErqe2wuPKXY7f63onjIau/lt77PNtQBslC+4/wEa6felsdOHDnZcUfcEgMxwT\nGB0pRE9mPt4qOqRizx4ZlGa8OnEvSISz6xD538wxAoGAMwLENcpGN18jRCzSq2Fe\nYuBTiM3TOfma/jQ2LFDBYIKr75v9wacfyMVYGqf2B8kgG5PIzEooiyUJInLuN7QO\nhNHk7rU/XnoyS/Us0Cljn6jQ/u/sS5XP2hSaLkqoJylO5DZKnxJw71A5/yFqm54w\n2CEPuKrACSQQHf8wII5SXnk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "xxxxxxxxxxxxxxxxxx@vinid-playground.iam.gserviceaccount.com",
+  "client_id": "102389640052849427405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xxxxxxxxxxxxxxxxxx%40vinid-playground.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
